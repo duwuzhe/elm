@@ -17,7 +17,7 @@ elm_springboot是一个基于Spring Boot的Web应用程序，设计用于处理�
 - **JavaFX**: 用于开发富客户端应用程序。
 - **FastJSON**: 用于处理 JSON 数据。
 
-## 主要组件
+## 后端部分主要组件
 
 ### 1. 业务逻辑层 (Service Layer)
 
